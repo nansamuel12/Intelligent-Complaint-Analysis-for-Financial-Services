@@ -13,3 +13,5 @@ notebook
 sentence-transformers
 tqdm
 matplotlib
+
+seaborn
