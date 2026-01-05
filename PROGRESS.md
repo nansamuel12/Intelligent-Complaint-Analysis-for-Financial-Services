@@ -23,6 +23,11 @@
   3. Run `python src/evaluate_rag.py`.
   4. Manually score the results in `data/rag_evaluation.csv`.
 
+### 🚀 Task 4: Interactive Chat Interface (COMPLETED)
+- **Script**: `app.py`
+- **Features**: Streamlit UI, RAG integration, Source display, Reset functionality.
+- **Status**: Done & Ready for Demo.
+
 ---
 
 ## Project Structure
